@@ -1,0 +1,13 @@
+.Pokedex {
+  margin-inline: 30px;
+}
+
+.Pokedex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.Pokedex-winner {
+  display: block;
+}
